@@ -17,7 +17,7 @@ SAMPLE_SHOW_NUM = 3
 
 # ページタイトルと概要
 
-st.title("探索的データ分析モックアプリ")
+st.title("Basic Statistics App")
 
 st.write("""
 ### データ分析をもっと身近に。

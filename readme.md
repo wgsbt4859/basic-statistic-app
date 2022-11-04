@@ -1,4 +1,4 @@
-# EDA basic app
+# Basic Statistics App
 
 データ分析をもっと身近に簡単に。
   

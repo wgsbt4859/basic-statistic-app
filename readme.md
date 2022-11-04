@@ -16,7 +16,7 @@
 
 このアプリはstreamlit上にデプロイしています。
 
-URLは[こちら]()
+URLは[こちら](https://wgsbt4859-basic-statistic-app-main-y3vp06.streamlit.app/)
 
 使用しているライブラリは以下のとおりです。
 streamlit==1.10.0
@@ -33,11 +33,9 @@ statsmodels==0.13.2
 
 将来的に、ダッシュボードのようなものが作れればいいなと思っています。
 
-また、欠損値の補完等も実装していく予定です。
+また、欠損値の補完、主成分分析等も実装していく予定です。
 
-# Author
- 
-作成情報を列挙する
+## Author
  
 * 作成者: Jun SAKAMOTO
 * E-mail: kikoriatashi@gmail.com
